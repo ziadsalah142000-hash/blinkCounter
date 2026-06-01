@@ -1,4 +1,5 @@
 flask
+flask-sock
 gunicorn
 opencv-python-headless
 mediapipe
